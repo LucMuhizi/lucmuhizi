@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m Luc and I am a Full Stack Software Engineer learning solidity and web3 technologies
-- 🌱 I’m currently bulding cool applications whilst learning Python, Javascript, C and SQL
+- 🌱 I’m currently bulding cool applications whilst learning Solidity, Javascript and Python.
 
 ---
 
